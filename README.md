@@ -1,3 +1,5 @@
+![Vĩnh An](V_nh_An_banner.jpg)
+
 # Hi, I'm Vĩnh An 👋
 
 Retro gaming enthusiast from Vietnam 🇻🇳. I play on retro handhelds and build tools to keep my game library tidy.
